@@ -1,0 +1,88 @@
+.Navigation
+{
+    size: auto;
+    background-color: aqua;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+    
+    
+
+}
+#body
+{
+  
+    padding: 10px;
+    background-color:rgb(36, 36, 112);
+    size: auto;
+    
+    
+
+
+}
+
+#body>p,li
+{
+    color:white;
+    text-align: justify;
+
+
+}
+
+#body>h2
+{
+    color:red;
+    text-align: center;
+
+
+
+}
+
+#body>img
+{
+    padding: 20px;
+
+
+
+}
+
+
+
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+#footer
+{
+    
+   
+    padding: 20px;
+    size: auto;
+    background-color: cornflowerblue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+
+}
+
+
+
