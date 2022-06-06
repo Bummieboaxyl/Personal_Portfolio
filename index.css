@@ -25,14 +25,14 @@
 #body>p,li
 {
     color:white;
-    text-align: justify;
+    text-align: center;
 
 
 }
 
 #body>h2
 {
-    color:red;
+    color: crimson;
     text-align: center;
 
 
